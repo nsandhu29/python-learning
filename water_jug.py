@@ -1,4 +1,4 @@
-# def water_jug(a,b,c):
+git # def water_jug(a,b,c):
 #     if a%b == 0:
 #         return('We can\'t solve this problem' )
 #     water_left = 0
