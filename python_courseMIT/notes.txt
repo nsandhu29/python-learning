@@ -1,0 +1,10 @@
+Computer architecture:
+- Memory
+- Control Unit (program counter)
+- Arithmetic Logic Unit (do primitive ops)
+
+Computer only does what you tell to do.
+
+In python everything is object.
+- Scalar objects
+- non-scalar
