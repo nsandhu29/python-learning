@@ -8,3 +8,5 @@ Computer only does what you tell to do.
 In python everything is object.
 - Scalar objects
 - non-scalar
+
+Binding values to variables.
