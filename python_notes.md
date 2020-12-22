@@ -44,11 +44,14 @@
 
 #### Class
 > * Constructor \__init\__(self)
+>   > The self parameter automatically receives a reference to the object invoking the method. By using self, a method can invoke the object and access the attributes and methods of that object. 
 > * Getter Setter
+>   > So that you are able to interact with the room object, you need to create some getters and setters. These are methods that get and set the values of the object’s attributes.
 > * Inheritance
 > * Iterators
 > * \__str\__
-> * Organise and structure code. Maintain and plan is easy
+> * Organise and structure code.
+> * Maintain and plan is easy
 > * Groups together data and behavior into one place
 > * Class - Blueprint for object
 > * Methods - Functions in class
