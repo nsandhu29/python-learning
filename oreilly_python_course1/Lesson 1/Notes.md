@@ -47,6 +47,7 @@ except Exception as err: ```
 - MRO - Method resolution
 - Co-operative multiple inheritance
 - If more than one parent, it has to check according to order
+- Class decorators
 
 
 #### Special Methods Python
