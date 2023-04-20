@@ -1,0 +1,6 @@
+{
+    "debug.terminal.clearBeforeReusing": true,
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
